@@ -33,7 +33,7 @@ public class Registros extends AppCompatActivity {
 
     public BarChart graficoBarras;
     private RequestQueue ListaRequest = null; private
-    String token = "eyJ0eXAi………………………-mMIArvMc";
+    String token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyLCJ1c2VybmFtZSI6InByYWN0aWNhMDIiLCJleHAiOjE1NjQ3NjQzMzcsImVtYWlsIjoicHJhY0Bob3RtYWlsLmNvbS J9.PqjZZXxwF-wU1POjtvvHfl4UWK2W6F-0TeSO08C69FE";
     //Generar un token propio
     private LinearLayout contenedorTemperaturas;
     private Map<String, TextView> temperaturasTVs;
